@@ -16,4 +16,4 @@ How to run the executable jar files:
 3. Once the file has downloaded onto your computer, simply click on it. Enjoy!
 If you encounter any problems, feel free to contact me. 
 
-The .java files are in the src folder of this repository. 
+The .java files used to create the .jar files are in the src folder of this repository. 
